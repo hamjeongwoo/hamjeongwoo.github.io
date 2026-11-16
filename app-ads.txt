@@ -1,0 +1,2 @@
+# 아래 줄의 pub-XXXXXXXXXXXXXXXX 를 AdMob 계정 정보의 게시자 ID(pub-숫자)로 바꾼 뒤 이 주석 줄을 지우고 push 하세요.
+google.com, pub-6927871171188301, DIRECT, f08c47fec0942fa0
